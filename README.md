@@ -7,7 +7,7 @@
 - Une [switch Unifi] (https://ca.store.ui.com/ca/en/category/switching-utility/products/usw-lite-8-poe)
 
 ## Explication du réseau
-! [Réseau du homelab2 de noumanity](schemanoumanity.jpg)
+![Réseau du homelab2 de noumanity](schemanoumanity.jpg)
 
 - STEVE aka la machine serveur administre le serveur gitolite. Il est branché en LAN dans la switch. Ici on ne voit que STEVE mais toutes autres connections dans la switch font partis du même réseau local (LAN).
 
